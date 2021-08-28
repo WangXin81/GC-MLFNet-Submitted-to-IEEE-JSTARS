@@ -1,7 +1,7 @@
-# Paper:
+# GC-MLFNet  (Submitted to IEEE-JSTARS)
 
 Global Context-based Multi-level Feature Fusion Networks for Multi-label Remote Sensing Image Scene Classification
-
+(This paper has been submitted to IEEE-JSTARS on July 2, 2021.)
 
 # Usage:
 ```
