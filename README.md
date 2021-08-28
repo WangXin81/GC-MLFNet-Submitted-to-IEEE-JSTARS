@@ -1,1 +1,1 @@
-# Global-Context-based-Multi-level-Feature-Fusion-Networks-for-Multi-label-Remote-Sensing-Image-Scene-
+# Global-Context-based-Multi-level-Feature-Fusion-Networks-for-Multi-label-RSI-Classification
